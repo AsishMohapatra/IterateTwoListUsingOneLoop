@@ -1,2 +1,2 @@
 # IterateTwoListUsingOneLoop
-Iterate Two List using One Loop zip
+Iterate Two List using One Loop zip Linq
